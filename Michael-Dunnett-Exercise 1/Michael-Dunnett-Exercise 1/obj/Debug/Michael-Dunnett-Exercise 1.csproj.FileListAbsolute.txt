@@ -1,0 +1,7 @@
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\bin\Debug\Michael-Dunnett-Exercise 1.exe.config
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\bin\Debug\Michael-Dunnett-Exercise 1.exe
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\bin\Debug\Michael-Dunnett-Exercise 1.pdb
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\obj\Debug\Michael-Dunnett-Exercise 1.csproj.AssemblyReference.cache
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\obj\Debug\Michael-Dunnett-Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\obj\Debug\Michael-Dunnett-Exercise 1.exe
+C:\Users\mdunnett\source\repos\Michael-Dunnett-Exercise 1\Michael-Dunnett-Exercise 1\obj\Debug\Michael-Dunnett-Exercise 1.pdb
